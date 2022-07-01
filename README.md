@@ -1,3 +1,3 @@
-Hi! I'm [Rodrigo](https://www.rvhonorato.me), my main area of research is Macromolecular Interactions and I am a postdoctoral researcher at [BonvinLab](https://www.bonvinlab.org), developing [HADDOCK](https://www.wenmr.science.uu.nl) (source code and web application) amongst other **Research Software**. 
+Hi! I have always worked with (computational) Structural Biology, consistently engaged with software development. After finishing my PhD in Bioinformatics, during post-doctoral stages, I've continued developing software but also gravitated towards the operational side of things.
 
-I've also built [gdock](https://gdock.org) to stay busy during quarantine 🤓
+I'm a **Software Development and Operations** staff member of the [Utrecht University](https://uu.nl) @ [BonvinLab](https://www.bonvinlab.org), working with the full-stack development/maintenance of [all its web services](https://wenmr.science.uu.nl), [tools](https://github.com/haddocking) and also HPC/HTC management and operation.
