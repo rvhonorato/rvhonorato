@@ -1,3 +1,3 @@
 Hi! I have always worked with (computational) Structural Biology, consistently engaged with software development. After finishing my PhD in Bioinformatics, during post-doctoral stages, I've continued developing software but also gravitated towards the operational side of things.
 
-I'm a **Software Development and Operations** staff member of the [Utrecht University](https://uu.nl) @ [BonvinLab](https://www.bonvinlab.org), working with the full-stack development/maintenance of [all its web services](https://wenmr.science.uu.nl), [tools](https://github.com/haddocking) and also HPC/HTC management and operation.
+I'm a **Software Development and Operations** staff member of the [Utrecht University](https://uu.nl) @ [BonvinLab](https://www.bonvinlab.org), working with the full-stack (python/go/react) development/maintenance of [all its web services](https://wenmr.science.uu.nl), [tools](https://github.com/haddocking) and also HPC/HTC management and operation.
