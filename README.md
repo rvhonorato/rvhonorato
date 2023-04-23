@@ -3,6 +3,8 @@
 <i>Full Stack @ <a href="https://wenmr.science.uu.nl" target="_blank">EOSC-WeNMR</a></i><br>
 <i>Software Development and Operations @ <a href="https://bonvinlab.org" target="_blank">Utrecht University - BonvinLab</a></i>
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/rvhonorato?label=Follow-me&style=social">
+
 👨🏽‍💻 Go, Python, Typescript, Bash, Docker, SQL
 
 💾 High Perfomance Computing, Data analysis
