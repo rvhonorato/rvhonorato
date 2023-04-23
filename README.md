@@ -1,13 +1,15 @@
 ## Hi, I'm Rodrigo! 👋🏽
 
-<i>Full Stack @ <a href="https://wenmr.science.uu.nl" target="_blank">EOSC-WeNMR</a></i><br>
-<i>Software Development and Operations @ <a href="https://bonvinlab.org" target="_blank">Utrecht University - BonvinLab</a></i>
+*Full Stack @ [EOSC-WeNMR](https://wenmr.science.uu.nl)*
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/rvhonorato?label=Follow-me&style=social">
+*Software Development and Operations @ [Utrecht University/BonvinLab](https://bonvinlab.org)*
+
+![GitHub followers](https://img.shields.io/github/followers/rvhonorato?label=Follow-me&style=social)
 
 👨🏽‍💻 Go, Python, Typescript, Bash, Docker, SQL
 
 💾 High Perfomance Computing, Data analysis
+
 * * *
 
 🎓 PhD Bioinformatics @ Universidade de São Paulo
@@ -16,4 +18,4 @@
 
 🎓 Post-doctoral Researcher @ Utrecht University
 
-📚 <a href="https://orcid.org/0000-0001-5267-3002" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif">  https://orcid.org/0000-0001-5267-3002</a>
+![Orcid](https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif)[https://orcid.org/0000-0001-5267-3002](https://orcid.org/0000-0001-5267-3002)
