@@ -6,7 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/rvhonorato?label=Follow-me&style=social)
 
-👨🏽‍💻 Go, Python, Typescript, Bash, Docker, SQL
+👨🏽‍💻 Rust, Go, Python, Typescript, Bash, Docker, SQL
 
 💾 High Perfomance Computing, Data analysis
 
