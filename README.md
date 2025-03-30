@@ -8,15 +8,15 @@
 
 👨🏽‍💻 Rust, Go, Python, Typescript, Bash, Docker, SQL
 
-💾 High Perfomance Computing, Data analysis
+💾 High Perfomance Computing, Containerization, Data analysis
 
 * * *
 
-🎓 PhD Bioinformatics @ [Universidade de São Paulo](https://www.ime.usp.br/en/graduate/bioinformatics/)
+🖥️ Engineering and Application Manager @ [Utrecht University](https://www.uu.nl/en/research/nmr)
 
 🎓 Researcher @ [Brazilian National Center for Research in Energy and Materials ](https://cnpem.br/en/)
 
-🎓 Post-doctoral Researcher @ [Utrecht University](https://www.uu.nl/en/research/nmr)
+🎓 PhD Bioinformatics @ [Universidade de São Paulo](https://www.ime.usp.br/en/graduate/bioinformatics/)
 
 ![Orcid](https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif) [List of Publications](https://orcid.org/0000-0001-5267-3002)
 
