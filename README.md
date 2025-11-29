@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo! 👋🏽
 
-I build **distributed systems**, **scientific software**, and **infrastructure tools** with a focus on performance and reliability. With a PhD in Bioinformatics, my work spans from scientific applications to general-purpose backend services and system utilities.
+I build **distributed systems**, **scientific software**, and **infrastructure tools** with a focus on performance and reliability. From scientific applications to general-purpose backend services and system utilities.
 
 **Engineering & Application Manager** at [Utrecht University / BonvinLab](https://bonvinlab.org) and [EOSC-WeNMR](https://wenmr.science.uu.nl). I oversee the development and maintenance of the [WeNMR Portal](https://wenmr.science.uu.nl) - a production monorepo with Go/Python/Rust microservices - and lead technical development of core components in the [HADDOCK](https://github.com/haddocking/haddock3) ecosystem for integrative structural modeling.
 
