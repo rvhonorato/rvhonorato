@@ -1,35 +1,12 @@
 # Hi there, I'm Rodrigo! 👋🏽
 
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/rvhonorato?style=social)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5267--3002-green.svg)](https://orcid.org/0000-0001-5267-3002)
-
-</div>
-
-## About Me
-
 I build **distributed systems**, **scientific software**, and **infrastructure tools** with a focus on performance and reliability. With a PhD in Bioinformatics, my work spans from scientific applications to general-purpose backend services and system utilities.
 
 **Engineering & Application Manager** at [Utrecht University / BonvinLab](https://bonvinlab.org) and [EOSC-WeNMR](https://wenmr.science.uu.nl). I oversee the development and maintenance of the [WeNMR Portal](https://wenmr.science.uu.nl) - a production monorepo with Go/Python/Rust microservices - and lead technical development of core components in the [HADDOCK](https://github.com/haddocking/haddock3) ecosystem for integrative structural modeling.
 
-## Tech Stack & Expertise
-
 **Languages:** Python • Rust • TypeScript • Go • Bash
 
 **Infrastructure:** Docker • Linux • PostgreSQL • nginx • Git
-
-**Core Skills:**
-
-- Monorepo Architecture & Polyglot Development
-- REST API Development (Go/Gin, Python/Flask, Rust/Axum)
-- Microservices Architecture & Service Orchestration
-- Authentication & Authorization (JWT, OAuth2/OIDC)
-- Database Design & ORM (PostgreSQL, GORM, SQLAlchemy)
-- Background Task Processing & Scheduled Jobs
-- CI/CD Pipeline Development (GitHub Actions)
-- Production Infrastructure (TLS, nginx, uWSGI)
-- Asynchronous Programming (Tokio, async/await)
 
 ## Featured Projects
 
@@ -47,11 +24,10 @@ I build **distributed systems**, **scientific software**, and **infrastructure t
 
 ## Side Projects
 
-When I'm not building production systems, I work on small projects for fun and learning:
-
 - [**game-of-life**](https://github.com/rvhonorato/game-of-life) - Conway's Game of Life implementation using Rust + WebAssembly with a React frontend
-- [**get-up-timer**](https://github.com/rvhonorato/get-up-timer) - Linux daemon that monitors keyboard/mouse activity and reminds me to take breaks (systemd integration)
-- [**curlc**](https://github.com/rvhonorato/curlc) - Learning project: building a curl clone in Rust to understand HTTP protocols better
+- [**get-up-timer**](https://github.com/rvhonorato/get-up-timer) - Linux daemon that monitors keyboard/mouse activity and reminds you to take breaks (systemd integration)
+- [**curlc**](https://github.com/rvhonorato/curlc) - Learning project to building a curl clone in Rust to understand HTTP protocols better
+- [**gdock**](https://github.com/rvhonorato/gdock) - Started as a pandemic pet-project, evolved into functional scientific software
 
 ## Publications
 
@@ -59,7 +35,6 @@ For a complete list of my scientific publications, visit my [ORCID profile](http
 
 ## Connect
 
-Personal Website: [rvhonorato.me](https://rvhonorato.me)
-Email: <email@rvhonorato.me>
+[rvhonorato.me](https://rvhonorato.me) // <email@rvhonorato.me>
 
 Drop me a line if you need help with a project, want to talk tech, collaborate on open source, or just say hi. 🐙
