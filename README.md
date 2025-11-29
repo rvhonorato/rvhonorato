@@ -63,11 +63,3 @@ Personal Website: [rvhonorato.me](https://rvhonorato.me)
 Email: <email@rvhonorato.me>
 
 Drop me a line if you need help with a project, want to talk tech, collaborate on open source, or just say hi. 🐙
-
----
-
-<div align="center">
-
-_Building tools that accelerate scientific discovery_
-
-</div>
